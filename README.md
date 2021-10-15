@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... MERN stack
 - 💞️ I’m looking to collaborate on ... .NET
-- 📫 How to reach me ... [Email](https://AbdulrazaJouhar@gmail.com)
+- 📫 How to reach me ... [Email](mailto:AbdulrazzakJouhar@gmail.com)
 - 😎 Fun fact ... I take a rest from coding by coding
 
 <!---
